@@ -1,0 +1,11 @@
+**/.DS-Store
+**/ab-results*
+**/*.gem
+/.bundle/
+/.yardoc
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/

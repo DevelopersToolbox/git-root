@@ -1,0 +1,16 @@
+class GitRoot
+  MAJOR: Integer
+  MINOR: Integer
+  PATCH: Integer
+  VERSION: String
+
+  def self.path: (?String base_path) -> String
+
+  class UnknownError < StandardError
+    def initialize: (?String msg) -> void
+  end
+
+  class InvalidRepoError < StandardError
+    def initialize: (?String msg) -> void
+  end
+end

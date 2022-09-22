@@ -1,0 +1,24 @@
+require:
+  - rubocop-packaging
+
+AllCops:
+  NewCops: enable
+  TargetRubyVersion: 2.6
+
+Layout/IndentationWidth:
+    Width: 4
+
+Layout/LineLength:
+    Enabled: false
+
+Naming/FileName:
+    Enabled: false
+
+Style/FrozenStringLiteralComment:
+    Enabled: false
+
+Style/HashSyntax:
+    EnforcedStyle: hash_rockets
+
+Style/RaiseArgs:
+    EnforcedStyle: compact
