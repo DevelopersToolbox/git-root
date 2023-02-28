@@ -24,7 +24,7 @@ Gem::Specification.new do |spec|
     spec.executables = Dir.glob('exe/*').map { |f| File.basename(f) }
 
     spec.add_development_dependency 'rake', '~> 13.0'
-    spec.add_development_dependency 'rbs', '~> 2.8.0'
+    spec.add_development_dependency 'rbs', '~> 3.0.1'
     spec.add_development_dependency 'reek', '~> 6'
     spec.add_development_dependency 'rspec', '~> 3.0'
     spec.add_development_dependency 'rubocop', '~> 1.46.0'
