@@ -15,7 +15,7 @@ GEM
       ast (~> 2.4.1)
     rainbow (3.1.1)
     rake (13.0.6)
-    rbs (2.8.4)
+    rbs (3.0.2)
     reek (6.1.4)
       kwalify (~> 0.7.0)
       parser (~> 3.2.0)
@@ -59,7 +59,7 @@ PLATFORMS
 DEPENDENCIES
   git-root!
   rake (~> 13.0)
-  rbs (~> 2.8.0)
+  rbs (~> 3.0.2)
   reek (~> 6)
   rspec (~> 3.0)
   rubocop (~> 1.47.0)
