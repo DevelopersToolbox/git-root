@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: If you use this software, please cite it using these metadata.
+title: Git Root
+abstract: A VERY simple Ruby Gem to give the root of any git repository.
+type: software
+version: 0.1.3
+date-released: 2024-06-05
+repository-code: https://github.com/DevelopersToolbox/git-root
+keywords:
+  - "Wolf Software"
+  - "Software"
+license: MIT
+authors:
+  - family-names: "Wolf"
+    orcid: "https://orcid.org/0009-0007-0983-2072"

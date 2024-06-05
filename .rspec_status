@@ -1,0 +1,4 @@
+example_id                   | status | run_time        |
+---------------------------- | ------ | --------------- |
+./spec/git-root_spec.rb[1:1] | passed | 0.00111 seconds |
+./spec/git-root_spec.rb[1:2] | passed | 0.00091 seconds |
